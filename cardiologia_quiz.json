@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Qual è il significato di un sopraslivellamento del segmento ST nell'ECG?",
+        "options": [
+            "Ischemia miocardica cronica",
+            "Necrosi transmurale",
+            "Fibrillazione atriale",
+            "Arresto cardiaco"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Qual è il ruolo principale del nodo seno-atriale?",
+        "options": [
+            "Generare il ritmo cardiaco principale",
+            "Trasmettere impulsi ventricolari",
+            "Rallentare il passaggio di impulsi",
+            "Coordinare la contrazione atriale"
+        ],
+        "correctIndex": 0
+    }
+]
